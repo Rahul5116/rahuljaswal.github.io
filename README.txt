@@ -1,33 +1,49 @@
-Directive by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🚀 Rahul Jaswal | Portfolio
 
+Welcome to my portfolio! 🎉 Here, you'll find a showcase of my **projects, skills, and experience** in **Cloud Computing** and **Software Development**. Let's build something amazing together! 💡✨
 
-A simple single pager built around an angular motif (powered by SVG awesomeness).
-Should work great for a landing page. Also includes default styling for a bunch of
-standard page elements (uncomment the huge block of commented-out HTML to see it).
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🌐 Live Portfolio
 
-(* = Not included)
+🚀 Explore my live portfolio to see my work in action! Click the button below to check it out:
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+[![🔗 Visit My Portfolio](https://img.shields.io/badge/🔗-Visit%20My%20Portfolio-blue)](https://your-live-portfolio-link.com)
 
-AJ
-aj@lkn.io | @ajlkn
+---
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## 💡 Projects
 
+### 1️⃣ Interactive Data Dashboard 📊
 
-Credits:
+- Developed an **interactive dashboard** using **Python** and **Streamlit** for seamless data visualization and analysis.
+- Features include **real-time insights, intuitive UI, and interactive graphs**.
+- [🎯 Live Demo](https://ngd5xghgqt4fwhhtvozqhp.streamlit.app/)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### 2️⃣ Titanic Survival Prediction 🚢
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- Built a **machine learning model** to predict **Titanic passenger survival** using **Python** and **scikit-learn**.
+- Implemented **data preprocessing, feature engineering, and model evaluation**.
+- [🎯 Live Demo](https://app-titanic-gx2aitotmhrqycwmds8arq.streamlit.app/)
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### 3️⃣ More Projects on GitHub 🛠️
+
+- Worked on **multiple projects**, including **Docker, Open Source contributions, and cloud-based solutions**.
+- Explore my **GitHub repositories** to see my latest work.
+- [🔗 GitHub Profile](https://github.com/Rahul5116)
+
+### 🔥 More projects coming soon!
+
+Stay tuned for **new and exciting projects**! 🚀💻
+
+---
+
+## 📬 Contact
+
+📩 Have questions or want to collaborate? Feel free to reach out!
+
+📧 **Email:** [Your Email Here]
+💼 **LinkedIn:** [Your LinkedIn Profile Here]
+🐦 **Twitter/X:** [Your Twitter Handle Here]
+
+Let's connect and create something amazing! 🚀🤝
